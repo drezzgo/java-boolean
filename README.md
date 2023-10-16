@@ -17,18 +17,12 @@ BoolSolver es una herramienta que permite resolver y analizar tablas de verdad d
 
 Aquí hay un ejemplo de cómo usar BoolSolver desde la línea de comandos:
 
-Este comando calculará los minterminos, maxterminos y valores de verdad para la expresión "A & B".
+Este comando calculará los minterminos, maxterminos y valores de verdad para la expresión "(A&B | C&D)|(E&F | !G)".
 
 ## Requisitos
 
 - Java 8 o superior.
 - [Descargar BoolSolver.jar](link-a-la-última-versión.jar) o compilar el código fuente por ti mismo.
-
-## Uso
-
-1. Descarga BoolSolver.jar desde [Releases](link-a-las-releases-del-proyecto).
-2. Abre una terminal y ejecuta el siguiente comando para calcular los minterminos, maxterminos y valores de verdad:
-
 
 ## Contribución
 
@@ -44,20 +38,10 @@ Este comando calculará los minterminos, maxterminos y valores de verdad para la
 
 ## Autor
 
-- [Tu nombre](tu-email@ejemplo.com)
+- Andres Gongora
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](link-al-archivo-LICENSE) para obtener más detalles.
-
----
 **Notas:**
 
-- Reemplaza `link-a-la-imagen-o-logo.png` con un enlace a tu imagen o logo.
-- Reemplaza `link-a-la-última-versión.jar` con un enlace para descargar la última versión de BoolSolver.
-- Reemplaza `link-a-las-releases-del-proyecto` con un enlace a la sección de "Releases" de tu repositorio.
 - Reemplaza `tu-expresión-booleana-aquí` con una expresión booleana de ejemplo.
-- Reemplaza `link-al-archivo-LICENSE` con un enlace a tu archivo de licencia si no está en el directorio raíz.
 
-¡Espero que este README.md elegante sea de ayuda para tu proyecto en GitHub! Asegúrate de personalizarlo según tus necesidades específicas.
 
