@@ -17,7 +17,8 @@ BoolSolver es una herramienta que permite resolver y analizar tablas de verdad d
 
 Aquí hay un ejemplo de cómo usar BoolSolver desde la línea de comandos:
 
-Este comando calculará los minterminos, maxterminos y valores de verdad para la expresión "(A&B | C&D)|(E&F | !G)".
+Este comando calculará los minterminos, maxterminos y valores de verdad para la expresión
+"(A&B | C&D)|(E&F | !G)".
 
 ## Requisitos
 
